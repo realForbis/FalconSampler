@@ -1,5 +1,6 @@
 # FalconSampler
 Gaussian sampler used in FALCON signature scheme, written in Golang
+
 Test vectors obtained from [official implementation](https://falcon-sign.info/)
 ```
 cpu: AMD Ryzen 5 5600X 6-Core Processor
